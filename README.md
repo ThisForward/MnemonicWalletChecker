@@ -1,0 +1,1 @@
+This Application Generates Various Mnemonic Wallets, Checks Their Balances and Gives You Mnemonic Words.Warning! Your probability of finding a wallet with these codes is 2²⁵⁶.This Possibility is Near Impossible and this code is for informational purposes only.
